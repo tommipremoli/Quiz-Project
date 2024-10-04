@@ -1,2 +1,2 @@
-# Quiz-Project
-This project creates a film quiz based on a dataset of titles, genres, directors and actors. The user chooses the difficulty and answers randomly generated questions about specific films. The quiz keeps track of the score and the time remaining, displaying a final graph showing the score trend during the game.
+# Quiz Project
+This project develops an interactive film quiz based on a dataset of titles, genres, directors and actors. After cleaning and formatting the data, the user chooses the difficulty (easy or difficult) and answers questions about the selected films. The quiz offers four answer options and tracks the score, showing a final graph of the answers' performance.
